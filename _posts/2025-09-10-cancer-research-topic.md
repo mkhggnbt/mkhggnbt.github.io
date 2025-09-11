@@ -9,7 +9,7 @@ It is the most frequently diagnoised cancer in women. Research estimates that th
 Breast cancer is usually idenified through mammograms and clincial breast exams. 
 
 
-Non-modifiable factors like the female gender, increasing age, genetic mutations, family history of cancer, and dense breast tissue causes high risk. Also, motifiable factors like obesity, alcohol consumption, postmenapausal hormone therapy, and reproductive history.
+Non-modifiable factors like the female gender, increasing age, genetic mutations, family history of cancer, and dense breast tissue cause high risk. Also, motifiable factors like obesity, alcohol consumption, postmenapausal hormone therapy, and reproductive history.
 
 
 The stages of breast cancer are: 

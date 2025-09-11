@@ -1,4 +1,4 @@
-##My cancer research blog!
+My cancer research blog!
 
 I chose to research breast cancer. 
 
